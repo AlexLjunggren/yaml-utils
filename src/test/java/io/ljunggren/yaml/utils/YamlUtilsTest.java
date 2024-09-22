@@ -1,4 +1,4 @@
-package io.ljunggren.yamlUtils;
+package io.ljunggren.yaml.utils;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
